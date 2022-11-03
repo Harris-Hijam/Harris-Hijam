@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harris-Hijam
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning CICD Pipeline
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any DevOps project
 - 📫 How to reach me (https://www.linkedin.com/in/harris-hijam-39062822b/)
 
 <!---
